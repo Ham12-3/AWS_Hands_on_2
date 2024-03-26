@@ -20,3 +20,22 @@
 
 ### Creation of a  key group for your cloudfront signed URLs by choosing from your public keys
 ![aws-36](https://github.com/Ham12-3/AWS_Hands_on_2/assets/93613316/4027819e-c374-470e-82e9-de34665bef2d)
+
+### Creation of an ECS Cluster
+
+![aws-37](https://github.com/Ham12-3/AWS_Hands_on_2/assets/93613316/ac0d35b9-899f-444f-bc7c-fa974b5a8aa3)
+
+
+### Creation of the task definition for AWS ECS Service using the nginxdemos/hello image
+
+![aws-38](https://github.com/Ham12-3/AWS_Hands_on_2/assets/93613316/32651a4c-7318-4075-afe3-7f9135bb1411)
+
+
+### Creation of an ECS service using the nginxdemos/hello docker image
+![aws-39](https://github.com/Ham12-3/AWS_Hands_on_2/assets/93613316/9ca343d1-0e89-4176-b378-fe02074f28e0)
+
+
+### Finally the NGINX Server has been created from the docker image
+
+![aws-40](https://github.com/Ham12-3/AWS_Hands_on_2/assets/93613316/76f07d2a-4bf5-48a2-8f6a-3454410c07f2)
+
