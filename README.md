@@ -65,6 +65,11 @@
 
 ![aws-5](https://github.com/Ham12-3/AWS_Hands_on_2/assets/93613316/b854fc26-cf29-49f6-970e-23d5d9c59f0f)
 
+### Deployment policy for the elasticbeanstalk
+![aws-7](https://github.com/Ham12-3/AWS_Hands_on_2/assets/93613316/83ec586e-f165-4563-b783-9681df111638)
+
+
+
 ### Also created an elasticbeanstalk environment for the prod
 
 ![aws-6](https://github.com/Ham12-3/AWS_Hands_on_2/assets/93613316/688564f4-b372-43b3-b9d1-3839ff321011)
