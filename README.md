@@ -74,3 +74,8 @@
 
 ![aws-6](https://github.com/Ham12-3/AWS_Hands_on_2/assets/93613316/688564f4-b372-43b3-b9d1-3839ff321011)
 
+
+### Deploying a node.js application into my elasticbeanstalk prod environment
+
+![aws-42](https://github.com/Ham12-3/AWS_Hands_on_2/assets/93613316/6e32f14a-8623-43fc-8f02-0ac0765a1da8)
+
