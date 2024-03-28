@@ -79,3 +79,10 @@
 
 ![aws-42](https://github.com/Ham12-3/AWS_Hands_on_2/assets/93613316/6e32f14a-8623-43fc-8f02-0ac0765a1da8)
 
+
+
+### Lifecycle policy for the elasticbeanstalk node.js application I recently uploaded
+
+![aws-1](https://github.com/Ham12-3/AWS_Hands_on_2/assets/93613316/87e4c4c8-ec46-4262-8421-8eca4bfc1a53)
+
+
