@@ -85,4 +85,31 @@
 
 ![aws-1](https://github.com/Ham12-3/AWS_Hands_on_2/assets/93613316/87e4c4c8-ec46-4262-8421-8eca4bfc1a53)
 
+### Starting up with Cloudformation in the stack
+
+![aws-3](https://github.com/Ham12-3/AWS_Hands_on_2/assets/93613316/bede2603-5c23-4fea-a4a4-67a1e4d648d6)
+
+
+### Template in a cloudformation designer
+
+![aws-4](https://github.com/Ham12-3/AWS_Hands_on_2/assets/93613316/6967174b-d4c5-411d-a856-96f380bcfaa8)
+
+
+### Creating a stack and uploading a yaml file
+
+![aws-5](https://github.com/Ham12-3/AWS_Hands_on_2/assets/93613316/4d208831-dfa2-4a4d-99f4-c2223775e37f)
+
+
+
+### The Stack creating in progress, helping us to create EC2 Instance 
+
+![aws-6](https://github.com/Ham12-3/AWS_Hands_on_2/assets/93613316/c0d2d952-99b5-4a94-a0ce-9507fbbd1a5b)
+
+### Updating our cloudformation template
+
+![aws-7](https://github.com/Ham12-3/AWS_Hands_on_2/assets/93613316/72207a37-1cef-4ac9-b2f7-b347f544d1de)
+
+![aws-8](https://github.com/Ham12-3/AWS_Hands_on_2/assets/93613316/e6de0a8e-eaf8-4a52-97b3-74908b249305)
+
+![image](https://github.com/Ham12-3/AWS_Hands_on_2/assets/93613316/dcc3d446-b9f5-44e2-acc9-fa90cf41eb63)
 
